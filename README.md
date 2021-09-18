@@ -87,7 +87,7 @@ Compile and make sure without errors. And put to Console project with Net 6.0 ( 
 
 Verify this if you don't forget prefix or valid method/implement.
 
-Example for Cairo Graphics -> cairo_ for prefix and create -> methodname = cairo_create - It is simple way with prefix and method name.
+Example for Cairo Graphics -> cairo_ for prefix and create for methodname => cairo_create - It is simple way with prefix and method name.
 
 Happy coding without conficting partial methods by Silk.NET
 
