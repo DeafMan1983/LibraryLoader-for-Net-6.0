@@ -5,7 +5,7 @@ I am working simple LibraryLoader without arch conflicts
 
 Example:
 You use SDL2 for 32 Bit then you need publish universal end-of-user dotnet launcher win-x86 with SDL2.dll 32 bit
-PS: I find nonsense about Windows64 and Windows86 from SearchPathContainer.cs from Silk.NET
+PS: I find nonsense about Windows64 and Windows86 from SearchPathContainer.cs by Silk.NET
 
 I don't need that. Because dotnet public creation can be current arch like x64, x86, arm or whatever...
 
