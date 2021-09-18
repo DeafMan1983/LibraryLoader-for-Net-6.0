@@ -61,6 +61,8 @@ namespace SourceSkyBoxer.Net.SDL2
             if (method != null)
                 method((nint*)sdl_window);
         }
+        
+        ...
     }
 }
 ```
